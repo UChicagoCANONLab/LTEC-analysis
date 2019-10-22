@@ -1,0 +1,124 @@
+,,,,,,1A,1B,2,3,5A,5B,5C,5D,5E,1 (no computer),2 (no comp),3 (no comp),j4,j5,6,7NL,7A,7B,j8,j9,10A,10B,10C,10D,Notes
+Gr,Cl,"St
+Id","In
+Cl","In
+Gr","In
+Ov",,,,"Are the spaces between
+the tick marks too big
+or too small?","block that moves
+ to next spot to
+draw a tick mark
+B","block that sets
+how many ticks
+A","block controls
+speed
+D","block that draws
+tick mark
+C","block that will
+space tick marks
+A","Draw tick marks
+to show fourths",,"Does the number
+in move 50 need
+to be bigger or
+smaller?","Estimate what you
+think the numbers
+be for fourths
+and write them
+in the script","Check work.
+Adjest
+numbers",,,,"Does move 75 need
+to be bigger or
+smaller?","Estimate for
+sixths",try again,What other programs can you write to partition the number line?,,,,
+,,,,,,360,Space Key,partitioned only to the frog,too small,,,,,,,,bigger,,,equal spaced and labeled,,too big,smaller,,,"Answers will vary.
+(1,360; 2,180; 3,120; 4,90; 5,72; 6,60, 8,45; 9,40; 10,36; 12,30;15,24;
+18,20)
+",,,,
+3,Y,1,1,1,1,360,space key,yes - not labeled,too small,B,A,D,C,A,correct,too small,bigger,4;90,4;90,unlabeled,unlabeled,too big,no answer,6;30,6;60,20;18,200;1.8,1000;.18,1;360,
+3,Y,2,2,2,2,360,space key,yes,too small,C,A,D,C,A,correct,too small,bigger,1;360,4;90,correct,unlabeled,too big,smaller,6;70,6;60,5;72,6;60,no answer,no answer,
+3,Y,3,3,3,3,4,space key,yes - not labeled,too small,B,A,D,C,A,unlabeled,too small,bigger,"4;20 ""I did repeat 4 and move 70 because I thought that would work.""","4;90 ""Next, I just thought 90 then I did go and that worked.""",unlabeled,no answer,too big,smaller,"5;70 ""I thought 70 and 5 would work together.""","5;72 ""Then it was really close so I went up to 71 then 72 and the frog ate the fly.""",5;72,no answer,no answer,no answer,
+3,Y,4,4,4,4,4,space key,yes,too small,C,A,D,B,A,correct,too small,bigger,"4:90 ""I did 90 is close to 100 and it and it would be a little to smale so I chose 90.",no answer,unlabeled,incorrect,too big,smaller,6;60,no answer,3;120,8;45,9;90,10;36,
+3,Y,6,5,5,5,4,space key,yes,too small,C,C,B,C,A,correct,too small,bigger,3;70,"3;70 ""I did 90 instead of 70 because 70 was to short.""",correct,no answer,no answer,no answer,no answer,no answer,no answer,no answer,no answer,no answer,
+3,Y,7,6,6,6,no answer,no answer,no answer,no answer,no answer,no answer,no answer,no answer,no answer,correct,too small,no answer,no answer,no answer,no answer,no answer,no answer,no answer,no answer,no answer,no answer,no answer,no answer,no answer,
+3,Y,8,7,7,7,360,space key,yes,too small,C,C,D,D,A,correct,too small,bigger,"4;90 wrote and erased ""move 90 steps, move 90 steps, move 90 steps""","4;90 wrote and erased ""move 90 steps.""",correct,correct,too big,smaller,6;60,6;60,5;72,6;60,6;72,no answer,
+3,Y,9,8,8,8,360,space key,yes,too small,B,C,no answer,no answer,no answer,correct,too small,smaller,no answer,no answer,no answer,no answer,no answer,no answer,no answer,no answer,no answer,no answer,no answer,no answer,
+3,Y,10,9,9,9,360,space key,yes,too small,C,A,D,C,A,correct,too small,bigger,"4;70 ""bigger then 50""","4;90 ""bigger then 70""",correct,no answer,no answer,no answer,no answer,no answer,no answer,no answer,no answer,no answer,
+3,Y,11,10,10,10,8,play,no answer,too small,A,C,D,C,A,correct,too small,bigger,4;90,no answer,correct,incorrect,no answer,smaller,6;58,6;54,no answer,no answer,no answer,no answer,
+3,Y,12,11,11,11,90,space key,no answer,too big,B,C,A,D,A,correct,too small,bigger,4;90,4;90,correct,incorrect,no answer,bigger,3;100,3;120,2;180,1;360,3;120,5;80,
+3,Y,14,12,12,12,no answer,no answer,no answer,no answer,no answer,no answer,no answer,no answer,no answer,correct,too small,bigger,"4;80 ""It should be at least bigger than 50!""","4;90 ""I think 90 will work because it is 10 more.""",correct,correct,too big,bigger,"6;50 ""I went to little because it is not a multiple.""","6;60 "" I is 6ths because 6 X 60 is 360m so 60 is for 6ths.",no answer,no answer,no answer,no answer,
+3,Y,15,13,13,13,360,space key,yes,too small,C,A,D,B,A,correct,too small,bigger,4;90,4;90,correct,no answer,too big,smaller,6;70,6;60,3;120,2;180,9;,10;,
+3,Y,16,14,14,14,4/4,space key,incomplete,too small,B,C,D,C,A,unlabeled,too small,bigger,4;70,4;90,unlabeled,incorrect,too small,smaller,6;70,6;60,10;50,5;60,7;90,8;70,
+3,Y,17,15,15,15,no answer,no answer,no answer,no answer,no answer,no answer,no answer,no answer,no answer,correct,too small,bigger,3;44,no answer,no answer,no answer,no answer,no answer,no answer,no answer,no answer,no answer,no answer,no answer,
+3,Y,19,16,16,16,4,space bar,yes,too big,B,C,D,C,A,unlabeled,too small,bigger,4;50,4;90,unlabeled,incorrect,no answer,bigger,6;70,6;60,10;50,5;60,7;90,8;70,
+3,Y,20,17,17,17,360,space key,no answer,too big,B,A,A,B,A,no answer,too small,bigger,4;50,4;50,incorrect,incorrect,too small,no answer,"6;75 ""1/2""","6;75 ""1/2""",6;75,6;75,6;75,6;75,
+3,Y,21,18,18,18,no answer,no answer,no answer,no answer,no answer,no answer,no answer,no answer,no answer,correct,too small,bigger,4;75,4;90,incorrect,incorrect,too big,smaller,no answer,no answer,no answer,no answer,no answer,no answer,
+3,Y,23,19,19,19,360,space key,yes,too small,B,A,D,C,A,correct,too small,bigger,4;90,4;90,unlabeled,no answer,no answer,smaller,6;60,6;60,10;36,5;72,2;180,8;45,
+3,HS,33,1,20,20,no answer,no answer,only 1,too big,no answer,no answer,no answer,no answer,no answer,no second page,,,,,,,,,,,,,,,
+3,HS,35,2,21,21,360,space key,yes,too small,B,C,B,A,B,no second page,,,,,,,,,,,,,,,
+3,HS,37,3,22,22,4,space,yes,too small,no answer,no answer,no answer,no answer,no answer,no second page,,,,,,,,,,,,,,,
+3,HS,38,4,23,23,360,space key,yes,too small,B,A,D,C,A,no second page,,,,,,,,,,,,,,,
+3,HS,41,5,24,24,360,space,only 4/4,too big,C,B,A,D,A,no second page,,,,,,,,,,,,,,,
+3,HS,42,6,25,25,360,space,only 4/4,too big,A,"B,C",D,no answer,A,no second page,,,,,,,,,,,,,,,
+3,HS,43,7,26,26,90,space,partitioned incorrectly,too big,B,D,A,B,A,no second page,,,,,,,,,,,,,,,
+3,HS,46,8,27,27,2,space,no answer,too big,no answer,no answer,no answer,no answer,no answer,no second page,,,,,,,,,,,,,,,
+4,L,1,1,,35,360,space bar,yes - not labeled,too small,B,A,D,C,A,correct,too small,bigger,4;72,4;90,correct,unlabeled,too big,smaller,6;60,6;60,1;_,no answer,no answer,no answer,
+4,L,2,2,,36,360,space bar,yes,too small,A,B,D,C,A,correct,too small,bigger,4;75,4;90,correct,no answer,no answer,smaller,6;65,6;60,2;180,3;120,4;90,6;60,
+4,L,3,3,,37,360,space bar,yes,too small,B,A,D,C,A,correct,too small,bigger,4;100,4;90,correct,correct,too big,smaller,6;35,6;60,3;120,8;45,4;90,2;180,
+4,L,4,4,,38,360,space,yes,too small,B,A,D,C,A,unlabeled,too small,bigger,4;80,4;90,correct,unlabeled,too big,smaller,6;50,6;60,no answer,no answer,no answer,no answer,
+4,L,5,5,,39,360,space,yes,too small,B,A,D,C,A,correct,too small,bigger,4;59,4;90,correct,no answer,no answer,no answer,no answer,no answer,no answer,no answer,no answer,no answer,
+4,L,6,6,,40,360,space bar,yes,too small,B,A,D,C,A,correct,too small,bigger,4;70,4;90,correct,line evenly partitioned,too big,smaller,4;90,4;90,2;180,4;90,12;30,1;360,
+4,L,7,7,,41,360,space,yes,too small,C,A,D,B,A,correct,too small,bigger,8;100,4;90,correct,no answer,too small,smaller,5;60,6;60,2;180,8;45,18;20,6;60,
+4,L,8,8,,42,360,space key,yes,too small,B,A,D,C,A,correct,too small,bigger,4;70,4;90,correct,no answer,no answer,no answer,no answer,no answer,no answer,no answer,no answer,no answer,
+4,L,9,9,,43,360,space,yes,too small,B,A,D,C,A,correct,"too small; large ""90""",bigger,4;90,no answer,correct,no answer,too big,smaller,6;60,6;60,no answer,no answer,no answer,no answer,
+4,L,10,10,,44,360,space,yes - not labeled,too small,B,A,D,C,A,correct,too small,bigger,4;90,4;90,unlabeled,no answer,too big,smaller,6;60,6;60,8;45,10;36,12;30,20;18,multiple long divisions
+4,L,11,11,,45,360,space key,yes,too small,B,A,D,C,A,correct,too small,bigger,5;80,4;50,correct,spaces too small,no answer,no answer,5;72,5;72,5;72,12;30,8;45,no answer,
+4,L,12,12,,46,360,space,yes,too small,B,A,B,C,A,correct,too small,bigger,4;91,4;90,correct,no answer,too big,smaller,6;68,6;60,3;120,8;45,2;180,5;72,
+4,L,13,13,,47,360,space key,incorrect - did the whole line,too small,B,A,D,C,A,correct,too small,bigger,4;90,4;90,correct,spaces too small,too big,smaller,6;65,6;60,12;30,2;180,1;360,4;90,
+4,L,14,14,,48,360,space,yes,too small,B,A,D,C,A,correct,too small,bigger,4;90,4;90,correct,no answer,too big,smaller,6;60,6;60,2;180,4;90,9;40,1;360,
+4,L,16,15,,49,360,space,incomplete,too small,B,A,D,C,A,correct,too small,bigger,4;75,4;90,unlabeled,unlabeled; too few partitions,too big,smaller,5;_,no answer,no answer,no answer,no answer,no answer,
+4,L,18,16,,50,360,space,yes,too small,B,A,D,C,A,correct,too small,smaller,4;74,"4;90; ""I used the number 130 first. Second I used 94. It was a little off so for last I used 90 and it worked.""",correct,no answer,too big,smaller,6;50,6;60,4;90,6;60,2;180,3;120,see 5
+4,L,19,17,,51,360,space,yes,too small,B,A,D,C,A,correct,too big,bigger;smaller,4;90,4;90,unlabeled,no answer,too big,smaller,6;60,6;60,5;72,10;36,1;360,3;120,
+4,L,21,18,,52,360,space key,yes,too small,B,A,D,C,A,correct,too small,bigger,4;90,4;90,correct,spaces too small; too few partitions,no answer,no answer,12;30,_;1,no answer,no answer,no answer,no answer,
+4,L,22,19,,53,360,space bar,yes,too small,B,A,D,C,A,correct,too small,bigger,7;80,7;80,correct,line evenly partitioned,too big,bigger,7;85,5;65,5;50,5;51,5;52,5;53,see 10a-d
+4,L,23,20,,54,360,space,yes - not labeled,too small,B,A,D,C,A,correct,too small,bigger,4;90,4;90,correct,correct,too small,smaller,6;60,6;60,4;90,1;360,2;180,3;120,
+4,JC,1,1,,65,360,space bar,yes,too small,B,A,D,C,A,correct,too small,bigger,4;90; unknown drawing,4;90,fourths;unlabeled,unlabeled,no answer,no answer,6;60,6;60,18;2,2;18,1;360,360;1,
+4,C,2,2,,66,360,space key,yes,too small,B,A,D,C,A,correct,too small,bigger,4;90,4;90,correct,correct,too big,smaller,6;60,6;60,6;60,8;45,360;1,10;36,drew [wait 1 sec] beneath 10a-d
+4,C,3,3,,67,360,space key,yes,too small,B,A,D,C,A,correct,too small,bigger,8;100,8;100,correct,no answer,too small,bigger,6;60,6;60,6;60,1;360,2;180,3;120,
+4,C,4,4,,68,360,space key,yes,too small,B,A,D,C,A,correct,too small,bigger,4;80,4;90,correct,line evenly partitioned,too big,smaller,6;60,6;60,12;30,8;45,1;360,24;15,
+4,C,5,5,,69,360,space,yes,too small,B,C,D,C,A,correct,too small,bigger,4;100,4;100,correct,no answer,too small,bigger;smaller,6;60,6;60,4;100,2;100,5;100,7;100,
+4,C,6,6,,70,360,space,yes,too small,B,A,D,C,A,correct,too small,bigger,4;100,4;90,correct,line evenly partitioned,too big,smaller,6;60,6;60,2;180,3;120,120;3,4;90,
+4,C,7,7,,71,360,space bar,yes,too small,B,A,D,C,A,correct,too small,bigger,4;80,4;70,correct,no answer,too small,smaller,6;120,6;60,6;10,6;75,6;60,6;30,
+4,C,9,8,,72,360,space,yes,too small,B,A,D,B;C,A,unlabeled,too small,bigger,4;91,4;90,correct,no answer,too big,smaller,6;70,6;60,3;120,12;30,24;15,2;180,
+4,C,10,9,,73,360,space,yes,too small,B,A,B,C,A,correct,too small,bigger,4;90,4;90,correct,no answer,too big,smaller,6;60,6;60,3;120,2;180,10;36,4;90,"long division, addition"
+4,C,11,10,,74,360,space,yes,too small,C,A,D,C,A,correct,too small,bigger,4;9,4;9,correct,correct,too big,smaller,6;60,6;60,8;45,9;40,10;36,12;30,long division
+4,C,12,11,,75,360,space,yes,too small,B,A,D,C,A,correct,too small,bigger,4;80,4;70,correct,no answer,too small,smaller,6;120,6;60,3;30,12;120,24;240,48;480,
+4,C,13,12,,76,360,space,yes,too small,B,A,D,C,A,correct,too small,bigger,4;100,4;90,correct,spaces too small,too small,bigger,6;90,6;60,2;180,1;130,4;90,3;120,
+4,C,14,13,,77,360,space key,yes,too small,C,A,D,B;C,A,correct,too small,bigger,2;25,4;100,correct,line evenly partitioned,too big,smaller,6;60,6;60,3;120,1;360,2;180,6;60,
+4,C,15,14,,78,360,space key,yes,too small,B,A,D,C,A,correct,too small,bigger,4;90,4;90,correct,no answer,too big,smaller,6;55,6;60,3;120,8;45,10;36,36;10,
+4,C,16,15,,79,360,space,yes,too small,B,A,D,C,A,correct,too small,bigger,8;90,4;90,correct,correct,too big,smaller,6;65,6;60,4;90,3;120,5;72,1;360,
+4,C,17,16,,80,360,space key,yes,too small,B,A,D,C,A,correct,too small,bigger,4;90,4;90,correct,correct,too big,smaller,6;60,6;60,5;72,2;180,3;120,10;30,long division
+4,C,18,17,,81,4,space key,yes,too small,B,A,D,C,A,correct,too small,bigger,4;80,4;90,correct,correct,no answer,no answer,6;50,6;60,1;_,8;_,9;_,10;_,
+4,C,19,18,,82,360,space key,yes,too small,B,A,D,C,A,correct,too small,bigger,4;88,4;90,correct,line evenly partitioned,no answer,no answer,6;60,6;60,1;360,2;180,3;120,36;10,
+4,C,20,19,,83,360,space,yes,too small,B,A,D,C,A,correct,too small,bigger,4;100,4;100,correct,no answer,too big,smaller,6;60,6;60,4;20,5;30,7;1,9;10,
+4,C,21,20,,84,360,space,yes,too small,B,A,D,C,A,correct,too small,bigger,4;90,4;90,correct,incorrectly labeled,too big,smaller,6;60,6;60,12;30,3;120,60;6,4;90,
+4,C,22,21,,85,0,space,yes,too small,B,A,D,C,A,correct,too small,bigger,4;90,4;80,correct,no answer,too big,smaller,6;50,6;60,360;1,3;30,4;40,5;100,
+4,C,23,22,,86,360,space key,yes,too small,B,A,D,C,A,correct,too small,bigger,4;90,4;90,correct,line evenly partitioned,no answer,bigger,6;60,6;60,8;45,6;60,1;360,1;10,
+4,C,24,23,,87,360,space key,yes,too small,B,A,D,C,A,correct,too small,bigger,4;90,4;90,correct,correct,too big,smaller,6;60,6;60,1;360,2;180,8;45,16;22.5,decimal
+4,C,25,24,,88,360,space key,yes,too small,B,A,D,C,A,correct,too small,bigger,4;90,4;90,correct,line evenly partitioned,too big,smaller,6;60,6;60,3;180,2;180,1;360,5;72,
+4,C,26,25,,89,360,space key,yes,too small,C,B,D,A,A,correct,too small,bigger,4;40,4;40,correct,line evenly partitioned,too big,smaller,6;60,6;60,7;50,8;40,9;30,10;20,
+4,C,27,26,,90,360,space key,yes,too small,B,A,D,C,A,correct,too small,bigger,4;90,4;90,correct,no answer,no answer,no answer,6;60,6;60,5;72,9;40,1;360,360;1,
+4,C,28,27,,91,360,space,yes,too small,B,A,D,C,A,correct,too small,no answer,4;9,4;90,correct,unlabeled,too big,smaller,6;60,6;60,1;360,2;120,3;120,5;6,
+4,C,29,28,,92,360,space,yes,too big,B,A,D,C,A,correct,too small,bigger,space;90,space;90,correct,no answer,too big,smaller,6;60,6;60,10;36,20;18,1;360,2;180,
+4,C,30,29,,93,360,space key,yes,too small,B,C,D,A,A,correct,too small,bigger,4;100,4;90,correct,no answer,too big,smaller,6;50,6;60,5;30,7;70,3;70,9;90,
+4,C,31,30,,94,360,space key,yes,too small,C,A,B,C,A,correct,too small,bigger,4;90,4;90,correct,no answer,too big,smaller,6;50,6;60,4;90,8;45,12;30,24;15,
+4,C,32,31,,95,360,space key,yes,too small,B,A,D,C,A,correct,too small,bigger,4;90,4;90,correct,no answer,too big,smaller,6;50,7;50,8;45,4;90,6;60,360;1,
+4,HJ,15,1,,55,360,space key,yes,too big,D,B,A,C,A,no second page,,,,,,,,,,,,,,,
+4,HJ,16,2,,56,360,space key,yes - not labeled,too big,C,A,D,A,A,no second page,,,,,,,,,,,,,,,
+4,HJ,17,3,,57,360,space key,yes - not labeled,too small,C,A,D,no answer,B,no second page,,,,,,,,,,,,,,,
+4,HJ,19,4,,58,360,space key,yes,too small,C,A,D,no answer,A,no second page,,,,,,,,,,,,,,,
+4,HJ,22,5,,59,360,space key,no answer,too big,D,B,A,C,A,no second page,,,,,,,,,,,,,,,
+4,HJ,26,6,,60,360,space key,yes,no answer,C,A,D,A,A,no second page,,,,,,,,,,,,,,,
+4,HJ,23,7,,61,4,space key,yes,too small,B,A,C,D,A,no second page,,,,,,,,,,,,,,,
+4,HJ,29,8,,62,360,space key,yes,too small,A,C,D,B,A,no second page,,,,,,,,,,,,,,,
+4,HJ,30,9,,63,360,space key,yes,no answer,A,B,D,no answer,A,no second page,,,,,,,,,,,,,,,
+4,HJ,31,10,,64,90,space key,no answer,too big,no answer,no answer,no answer,no answer,no answer,no second page,,,,,,,,,,,,,,,
